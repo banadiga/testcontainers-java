@@ -37,6 +37,7 @@ TestContainers is distributed in a handful of Maven modules:
 * **mysql**, **postgresql** or **oracle-xe** for database container support
 * **selenium** for selenium/webdriver support
 * **nginx** for nginx container support
+* **influxdb** for influxdb container support
 
 In the dependency description below, replace `--artifact name--` as appropriate and `--latest version--` with the [latest version available on Maven Central](https://search.maven.org/#search%7Cga%7C1%7Cg%3A%22org.testcontainers%22):
 
